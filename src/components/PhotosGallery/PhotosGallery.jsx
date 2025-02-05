@@ -1,4 +1,4 @@
-import { Grid } from 'react-loader-spinner';
+import Grid from '../Grid/Grid.jsx';
 import PhotosGalleryItem from '../PhotosGalleryItem/PhotosGalleryItem';
 
 const PhotosGallery = ({ images }) => {
